@@ -1,3 +1,5 @@
+# Lib sendo usado em na Unail, verificar com eles antes de remover
+
 # facebook_app_events
 
 [![pub package](https://img.shields.io/pub/v/facebook_app_events.svg)](https://pub.dartlang.org/packages/facebook_app_events)
